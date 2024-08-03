@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @GauriGotekar
-- 👀 I’m interested in knowing more about Data
-- 🌱 I’m currently learning different data manipulation and analysis techniques
-- 💞️ I’m looking to collaborate on projects related to ML, Time series, automation and pretty much anything related to data
+- 👀 I’m working as a Business Analyst.
 - 📫 How to reach me: 
 - You can email me at gaurigotekar@gmail.com or you can connect with me on Linkedin (https://www.linkedin.com/in/gauri-gotekar-501710184/)
 
