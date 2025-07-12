@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GauriGotekar
-- 👀 I’m working as a Business Analyst.
+- 👀 I’m working as a Data Scientist.
 - 📫 How to reach me: 
 - You can email me at gaurigotekar@gmail.com or you can connect with me on Linkedin (https://www.linkedin.com/in/gauri-gotekar-501710184/)
 
